@@ -27,6 +27,11 @@ In addition, we also found out that Sobel and Gaussian filter is separable funct
 
 We can also use multiple streams to parallelise the process of memcpy and kernel execution, although the improvement may not be too significant, it is one thing that can be done in order to push performance to its limit.
 
+# Contribute
+* Fork the project.
+* Make feature addition or bug fix.
+* Send me a pull request.
+
 # License
 Copyright (c) 2021, Cheah Siew Lek
 
