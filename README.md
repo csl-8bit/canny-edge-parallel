@@ -30,5 +30,6 @@ We can also use multiple streams to parallelise the process of memcpy and kernel
 # Contribute
 * Fork the project.
 * Make feature addition or bug fix.
+* Report Issues
 * Send me a pull request.
 
