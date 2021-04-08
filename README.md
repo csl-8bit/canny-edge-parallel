@@ -32,8 +32,3 @@ We can also use multiple streams to parallelise the process of memcpy and kernel
 * Make feature addition or bug fix.
 * Send me a pull request.
 
-# License
-Copyright (c) 2021, Cheah Siew Lek
-
-The Helicopter Game is provided **as-is** under the **MIT** license. 
-For more information see LICENSE.
